@@ -56,7 +56,7 @@ type Config struct {
 var id = "ww5c3f7cf7bdda96f1"
 var secret = "9zNWJgUp5sPF9GTXr_5sMMooizpWjUna-lqd4vUlhbU"
 
-var config_file = flag.String("c", "./config.json", "输入配置文件")
+var config_file = flag.String("c", "./wechat.json", "输入配置文件")
 var text = flag.String("t", "hello world", "输入发送内容")
 
 func main() {
