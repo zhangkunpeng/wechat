@@ -1,0 +1,14 @@
+{
+    "id":"",
+    "secret":"",
+    "message_config":{
+        "touser" : "@all",
+        "msgtype" : "text",
+        "agentid" : 1000002,
+        "safe":0,
+        "enable_id_trans": 0,
+        "enable_duplicate_check": 0,
+        "duplicate_check_interval": 1800
+    }
+
+}
